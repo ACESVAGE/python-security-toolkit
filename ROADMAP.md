@@ -10,8 +10,8 @@
 
 | # | Script | Folder | Concepts Covered | Status |
 |---|--------|--------|-----------------|--------|
-| 1 | `whois_lookup.py` | `recon/` | WHOIS queries, domain registration info, registrar data | ⏳ Next |
-| 2 | `dns_resolver.py` | `recon/` | A/AAAA/MX/NS/TXT records, reverse DNS, zone info | ⬜ |
+| 1 | `whois_lookup.py` | `recon/` | WHOIS queries, domain registration info, registrar data | ✅ Done |
+| 2 | `dns_resolver.py` | `recon/` | A/AAAA/MX/NS/TXT records, reverse DNS, zone info | ⏳ Next |
 | 3 | `subdomain_enum.py` | `recon/` | Wordlist brute-force, DNS resolution, concurrent scanning | ⬜ |
 | 4 | `web_recon.py` | `recon/` | HTTP headers, robots.txt, sitemap, tech fingerprinting | ⬜ |
 | 5 | `email_harvester.py` | `recon/` | Scrape emails from pages, OSINT gathering, validation | ⬜ |
