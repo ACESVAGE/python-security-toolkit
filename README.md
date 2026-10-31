@@ -128,7 +128,11 @@ These tools are built for **educational purposes** and **authorized security tes
 
 Built by **[ACESVAGE](https://github.com/ACESVAGE)** — aspiring Security Analyst with a developer's mindset.
 
-Part of a daily coding discipline alongside [linux-admin-scripts](https://github.com/ACESVAGE/linux-admin-scripts).
+Part of a daily coding discipline across systems, automation, and low-level security.
+
+### 🔗 Companion Repositories
+- 🛡️ **[linux-admin-scripts](https://github.com/ACESVAGE/linux-admin-scripts)** — Daily Linux system administration, automation, and security hardening scripts in Bash.
+- 🎯 **[c-threat-hunter](https://github.com/ACESVAGE/c-threat-hunter)** — Low-level C programs for malware detection, binary inspection (PE/ELF), and memory threat hunting.
 
 ---
 
