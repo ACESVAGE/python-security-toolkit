@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Scripts](https://img.shields.io/badge/Scripts-1%2F30-brightgreen)](ROADMAP.md)
+[![Scripts](https://img.shields.io/badge/Scripts-2%2F30-brightgreen)](ROADMAP.md)
 
 > A growing Python toolkit for cybersecurity & security analysis — built on my journey to becoming a Security Analyst.
 
@@ -114,13 +114,13 @@ These tools are built for **educational purposes** and **authorized security tes
 
 | Phase | Category | Scripts | Status |
 |-------|----------|---------|--------|
-| 1 | Reconnaissance | 1/5 | 🔄 In Progress |
+| 1 | Reconnaissance | 2/5 | 🔄 In Progress |
 | 2 | Network Scanning | 0/5 | 🔲 |
 | 3 | System Hardening | 0/5 | 🔲 |
 | 4 | Threat Detection | 0/5 | 🔲 |
 | 5 | Cryptography & CTF | 0/5 | 🔲 |
 | 6 | Automation & Reporting | 0/5 | 🔲 |
-| **Total** | | **1/30** | |
+| **Total** | | **2/30** | |
 
 ---
 
