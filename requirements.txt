@@ -1,0 +1,26 @@
+# =============================================================================
+# Python Security Toolkit — Dependencies
+# Install: pip install -r requirements.txt
+# =============================================================================
+
+# --- Networking & Scanning ---
+scapy>=2.5.0              # Packet crafting & network scanning
+python-nmap>=0.7.1        # Nmap wrapper for port scanning
+requests>=2.31.0          # HTTP requests for web recon
+dnspython>=2.4.0          # DNS queries & resolution
+
+# --- Cryptography ---
+cryptography>=41.0.0      # Encryption, hashing, certificates
+hashlib-additional>=1.0   # Extended hash support
+
+# --- System & OS ---
+psutil>=5.9.0             # System/process monitoring
+paramiko>=3.3.0           # SSH connections & automation
+
+# --- Output & Reporting ---
+rich>=13.6.0              # Beautiful terminal output & tables
+colorama>=0.4.6           # Cross-platform colored output
+
+# --- Data & Parsing ---
+python-whois>=0.9.3       # WHOIS lookups
+beautifulsoup4>=4.12.0    # HTML parsing for web recon
