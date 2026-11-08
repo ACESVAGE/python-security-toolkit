@@ -23,8 +23,8 @@
 
 | # | Script | Folder | Concepts Covered | Status |
 |---|--------|--------|-----------------|--------|
-| 6 | `host_discovery.py` | `scanning/` | ICMP ping sweep, ARP scanning, alive host detection | ⏳ Next |
-| 7 | `port_scanner.py` | `scanning/` | TCP connect/SYN scan, common ports, service detection | ⬜ |
+| 6 | `host_discovery.py` | `scanning/` | ICMP ping sweep, ARP scanning, alive host detection | ✅ Done |
+| 7 | `port_scanner.py` | `scanning/` | TCP connect/SYN scan, common ports, service detection | ⏳ Next |
 | 8 | `banner_grabber.py` | `scanning/` | Socket connections, service version fingerprinting | ⬜ |
 | 9 | `network_mapper.py` | `scanning/` | Subnet enumeration, OS detection, topology mapping | ⬜ |
 | 10 | `vuln_scanner.py` | `scanning/` | CVE lookup, NSE script integration, risk scoring | ⬜ |
